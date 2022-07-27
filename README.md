@@ -1,1 +1,1 @@
-Ссылку на оригинальный репозиторий - https://github.com/ZQPei/deep_sort_pytorch
+Ссылк на оригинальный репозиторий - https://github.com/ZQPei/deep_sort_pytorch
